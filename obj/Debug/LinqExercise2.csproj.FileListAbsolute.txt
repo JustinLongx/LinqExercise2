@@ -1,0 +1,7 @@
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\LinqExercise2\bin\Debug\LinqExercise2.exe.config
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\LinqExercise2\bin\Debug\LinqExercise2.exe
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\LinqExercise2\bin\Debug\LinqExercise2.pdb
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\LinqExercise2\obj\Debug\LinqExercise2.csproj.AssemblyReference.cache
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\LinqExercise2\obj\Debug\LinqExercise2.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\LinqExercise2\obj\Debug\LinqExercise2.exe
+C:\Users\justi\OneDrive\Desktop\2024 C#\TrueCoders 2024\Repo 2024\LinqExercise2\obj\Debug\LinqExercise2.pdb
